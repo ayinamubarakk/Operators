@@ -9,7 +9,7 @@
 # Concatenation
 # str1 = "Ayina"
 # str2 = "Mubarak"
-# print(str1 + str2)
+# print(str1 +" " +str2)
 
 str1 = "ayina"
 print(len(str1))
