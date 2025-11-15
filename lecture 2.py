@@ -18,8 +18,16 @@ str2 = "mubarak"
 print(len(str2))
 print(str1)
 
+#Indexing 
+str = "Ayina_Mubarak"
+ch = str[6]
+print(ch)
 
+#Slicing
+str = "Hypothesis"
+print(str[0:10])
 
-
-
-
+str = "Ayina_Mubarak"
+print(str[0:len(str)])
+print(str[ :4])
+print(str[-4:1])
